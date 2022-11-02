@@ -1,6 +1,6 @@
 Flask==0.10.1
 GeoIP-Python==1.2.8
-SQLAlchemy==0.9.7
+SQLAlchemy==1.2.18
 SSSDConfig==1.11.7
 bpython==0.13.1
 coverage==3.7.1
@@ -21,7 +21,7 @@ pycrypto==2.6.1
 pycurl==7.19.3
 pytest==2.6.0
 python-libtorrent==0.16.11
-requests==2.3.0
+requests==2.20
 rsa==3.1.4
 scapy==2.2.0
 scikit-learn==0.14.1
